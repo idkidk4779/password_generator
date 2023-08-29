@@ -1,4 +1,4 @@
-#code with idk
+#code with idkidk
 
 # import necessary modules
 import random
